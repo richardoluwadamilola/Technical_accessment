@@ -1,0 +1,15 @@
+C:\Users\ThankGod Busari\Documents\Dee's Projects\Technical_accessment\Algorithm_answer\Algorithm_answer\bin\Debug\net6.0\Algorithm_answer.exe
+C:\Users\ThankGod Busari\Documents\Dee's Projects\Technical_accessment\Algorithm_answer\Algorithm_answer\bin\Debug\net6.0\Algorithm_answer.deps.json
+C:\Users\ThankGod Busari\Documents\Dee's Projects\Technical_accessment\Algorithm_answer\Algorithm_answer\bin\Debug\net6.0\Algorithm_answer.runtimeconfig.json
+C:\Users\ThankGod Busari\Documents\Dee's Projects\Technical_accessment\Algorithm_answer\Algorithm_answer\bin\Debug\net6.0\Algorithm_answer.dll
+C:\Users\ThankGod Busari\Documents\Dee's Projects\Technical_accessment\Algorithm_answer\Algorithm_answer\bin\Debug\net6.0\Algorithm_answer.pdb
+C:\Users\ThankGod Busari\Documents\Dee's Projects\Technical_accessment\Algorithm_answer\Algorithm_answer\obj\Debug\net6.0\Algorithm_answer.csproj.AssemblyReference.cache
+C:\Users\ThankGod Busari\Documents\Dee's Projects\Technical_accessment\Algorithm_answer\Algorithm_answer\obj\Debug\net6.0\Algorithm_answer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThankGod Busari\Documents\Dee's Projects\Technical_accessment\Algorithm_answer\Algorithm_answer\obj\Debug\net6.0\Algorithm_answer.AssemblyInfoInputs.cache
+C:\Users\ThankGod Busari\Documents\Dee's Projects\Technical_accessment\Algorithm_answer\Algorithm_answer\obj\Debug\net6.0\Algorithm_answer.AssemblyInfo.cs
+C:\Users\ThankGod Busari\Documents\Dee's Projects\Technical_accessment\Algorithm_answer\Algorithm_answer\obj\Debug\net6.0\Algorithm_answer.csproj.CoreCompileInputs.cache
+C:\Users\ThankGod Busari\Documents\Dee's Projects\Technical_accessment\Algorithm_answer\Algorithm_answer\obj\Debug\net6.0\Algorithm_answer.dll
+C:\Users\ThankGod Busari\Documents\Dee's Projects\Technical_accessment\Algorithm_answer\Algorithm_answer\obj\Debug\net6.0\refint\Algorithm_answer.dll
+C:\Users\ThankGod Busari\Documents\Dee's Projects\Technical_accessment\Algorithm_answer\Algorithm_answer\obj\Debug\net6.0\Algorithm_answer.pdb
+C:\Users\ThankGod Busari\Documents\Dee's Projects\Technical_accessment\Algorithm_answer\Algorithm_answer\obj\Debug\net6.0\Algorithm_answer.genruntimeconfig.cache
+C:\Users\ThankGod Busari\Documents\Dee's Projects\Technical_accessment\Algorithm_answer\Algorithm_answer\obj\Debug\net6.0\ref\Algorithm_answer.dll
