@@ -4,6 +4,7 @@ namespace WebApplicationAccessment.Data
 {
     public class DataInitializer
     {
+        //In-Memory Data innitialization
         public List<Country> InitializeCountries()
         {
             return new List<Country>
